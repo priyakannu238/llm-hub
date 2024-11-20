@@ -2,6 +2,14 @@
 
 A scalable Python framework for integrating and interacting with multiple Large Language Models (LLMs) through a unified interface. This platform supports seamless switching between different AI providers (OpenAI, Anthropic, Google) and allows for customizable chat personalities.
 
+## Interface
+
+![image](https://github.com/user-attachments/assets/a2a20ad2-1b54-4862-929f-b76268b3a75d)
+![image](https://github.com/user-attachments/assets/e67bc187-cebb-413f-ba8a-62e68432cc34)
+![image](https://github.com/user-attachments/assets/fe1bd1dc-2034-449b-b668-b4e129757c34)
+![image](https://github.com/user-attachments/assets/80157081-097f-418b-91fa-741e3d28c820)
+![image](https://github.com/user-attachments/assets/28060d86-b3f3-4c62-91ea-a17fd441176a)
+
 ## Features
 
 - 🤖 Multi-model support (GPT-4, GPT-3.5, Claude-3, PaLM)
